@@ -3,7 +3,7 @@ JavaScriptでタイピングゲームをつくろう（全15回）
 ===
 
 ###　概要
-javascriptでシンプルなストップウォッチを作る
+javascriptでシンプルなタイピングゲームを作る
 
 ### URL
 https://github.com/NanaTerada/lesson_stop_watch_js_v6.git
